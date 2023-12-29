@@ -1,0 +1,36 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+font-family: 'Urbanist', sans-serif;
+}
+
+/* #logo {
+    max-width: 600px;
+    max-width: auto;
+
+} */
+
+.carimg {
+    max-height: 500px;
+}
+body {
+    background-color: rgb(231, 217, 199);
+}
+#prv-btn {
+    background-color: rgb(43, 43, 43);
+    border-radius: 20%;
+}
+#next-btn {
+    background-color: rgb(43, 43, 43);
+    border-radius: 20%;
+}
+#copy {
+    font-size: larger;
+}
+.accordion-header{
+font-weight: 700;
+}
+@media ( max-width: 768px) {
+    #acc {
+        
+    }
+}
